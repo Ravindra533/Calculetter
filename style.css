@@ -1,0 +1,30 @@
+#caculetter {
+  background-color: rgb(184, 196, 177);
+  border-radius: 5px;
+  width: 200px;
+  border: 2px solid rgb(40, 38, 38);
+  margin: 100px 400px;
+}
+
+#display {
+  margin: 10px;
+  width: 85%;
+  font-size: 25px;
+  background-color: bisque;
+  border-radius: 5px;
+}
+
+.button {
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+  background-color: rgb(8, 8, 8);
+  border-radius: 5px;
+  color: white;
+}
+
+.button_container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
